@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @kretinoh
+# How's its going? I'm Kretinoh 🧙
+
+### Web Development student
 - 👀 I’m interested in Hacking, beers, and learn.
 - 🌱 I’m currently learning Web Aplication Development
 - 📫 How to reach me @kretinoh on twitter
