@@ -5,7 +5,7 @@ I'am a young student of Higher Education in Web Application Development at [IES 
 I started as a child messing with family computers. Little by little, my whole environment revolved around this profession until I discovered that I am a cybersecurity geek
 
 ## 📈 GITHUB STATS 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kr371n0h=anuraghazra&theme=radical&show_icons=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kretinoh&count_private=true&theme=dark)]
 
 <!---
 kretinoh/kretinoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
