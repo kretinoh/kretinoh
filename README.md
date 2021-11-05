@@ -21,6 +21,7 @@ I started as a child messing with family computers. Little by little, my whole e
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kretinoh&repo=SpaceShipGame)](https://github.com/kretinoh/SpaceShipGame)
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kretinoh&repo=DAW-Programacion)](https://github.com/kretinoh/DAW-Programacion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kretinoh&repo=DAW-ProgramacionJava)](https://github.com/kretinoh/DAW-ProgramacionJava)
 
 ## 📲 CONTACT ME
 
