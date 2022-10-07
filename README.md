@@ -25,8 +25,7 @@ I started as a child messing with family computers. Little by little, my whole e
 
 ## 📲 CONTACT ME
 
-[![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kretinoh)
-[![My Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kretinoh)
+[![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kretinoh
 
 <!---
 kretinoh/kretinoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
