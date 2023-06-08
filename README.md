@@ -24,7 +24,6 @@ I started as a child messing with family computers. Little by little, my whole e
 
 ## ⚡ PROYECTS
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kretinoh&repo=SpaceShipGame)](https://github.com/kretinoh/SpaceShipGame)
-<br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kretinoh&repo=potentially-hazardous-asteroids)](https://github.com/kretinoh/potentially-hazardous-asteroids)
 
 ## 📲 CONTACT ME
