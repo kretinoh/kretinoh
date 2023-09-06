@@ -1,8 +1,7 @@
 # Hello World, I'm Kretinoh 👽
 
-I'am a young student of Higher Education in Web Application Development at [IES GRAN CAPITAN](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/).
+I'm a web developer! Right now I am working in the role of Back-end Developer. I currently use a stack of .Net, C#, Java, PHP, Blazor although I also have knowledge of HTML, CSS, SASS, Javascript, React
 
-I started as a child messing with family computers. Little by little, my whole environment revolved around this profession until I discovered that I am a cybersecurity geek
 
 ## 📈 GITHUB STATS 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kretinoh&count_private=true&theme=synthwave)
